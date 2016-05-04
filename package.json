@@ -1,11 +1,11 @@
 {
-  "name": "frontend",
-  "version": "1.0.0",
-  "author": "Eduardo Navarro Dantas <eduardo.dantas@gmail.com>",
+  "name": "angularjs-gulp-browserify-boilerplate",
+  "version": "1.5.9",
+  "author": "Jake Marsh <jakemmarsh@gmail.com>",
   "description": "Boilerplate using AngularJS, SASS, Gulp, and Browserify while also utilizing best practices.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/edund/frontend.git"
+    "url": "https://github.com/jakemmarsh/angularjs-gulp-browserify-boilerplate.git"
   },
   "keywords": [
     "express",
