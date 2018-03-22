@@ -1,0 +1,10 @@
+// 20180322205638
+// https://nexmo-community.github.io/ncco-examples/first_call_talk.json
+
+[
+  {
+    "action": "talk",
+    "voiceName": "Eduardo",
+    "text": "Olá, aqui é o eduardo. Desejo um plantão tranquilo, bjs!"
+  }
+]
